@@ -22,8 +22,8 @@ title: Statistical Learning Methods
 email: yyxqiaosheng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   For the book 'Statistical Learning Methods'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://qiaoshengyyx.github.io/StatisticalLearningMethods/" # the subpath of your site, e.g. /blog
+url: "https://qiaoshengyyx.github.io/StatisticalLearningMethods/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: None
 github_username:  Qiaoshengyyx
 

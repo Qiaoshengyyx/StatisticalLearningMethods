@@ -6,7 +6,7 @@
 设输入x是n维的向量，有函数：
 $$
 f(x)=sign(w \cdot x+b)
-$$ 
+$$
 其中：
 $$
 sign(x)=\left\{

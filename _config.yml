@@ -28,7 +28,7 @@ twitter_username: None
 github_username:  Qiaoshengyyx
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 

@@ -28,9 +28,10 @@ twitter_username: None
 github_username:  Qiaoshengyyx
 
 # Build settings
-theme: minima
+theme: Midnight
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+markdown: kramdown
+remote_theme: Midnight

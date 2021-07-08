@@ -53,4 +53,4 @@ plugins:
 #   - vendor/ruby/
 
 markdown: kramdown
-remote_theme: Midnight
+remote_theme: jekyll-theme-cayman

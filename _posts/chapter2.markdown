@@ -1,6 +1,7 @@
 ---
 permalink: /_posts/chapter2.html
-layout: default
+title: chapter2
+layout: post
 ---
 # 感知机
 ## 简介

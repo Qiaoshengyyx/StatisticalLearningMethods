@@ -4,4 +4,9 @@
 
 layout: home
 ---
-this is an index
+# this is an index
+
+## record of Statistical Learning Methods
+
+《统计学习方法》第二版的学习记录
+
